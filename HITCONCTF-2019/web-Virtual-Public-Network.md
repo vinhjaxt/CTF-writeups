@@ -81,4 +81,7 @@ initrd.img.old
 hitcon{Now I'm sure u saw my Bl4ck H4t p4p3r :P}
 
 ```
-Please read author's post for more informations.
+Please follow for more informations:
+- https://i.blackhat.com/USA-19/Wednesday/us-19-Tsai-Infiltrating-Corporate-Intranet-Like-NSA.pdf
+- https://github.com/orangetw/My-CTF-Web-Challenges#virtual-public-network
+- http://blog.orange.tw/2019/09/attacking-ssl-vpn-part-3-golden-pulse-secure-rce-chain.html
