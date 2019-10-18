@@ -62,7 +62,7 @@ Win the jackpot!
 ```
 # Team token
 ```
-Token: 7a70261c-3288-441e-8ec0-7a8a84c655f1
+Token: 7a70261c-xxxx-xxxx-xxxx-7a8a84c655f1
 ```
 # Timeline
 - Setup Docker container (of course :v)
