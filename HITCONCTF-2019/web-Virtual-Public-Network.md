@@ -1,5 +1,6 @@
+# pwnphofun team
 # Description
-Author: [@orange_8361](https://twitter.com/orange_8361)
+Author of challenge: [@orange_8361](https://twitter.com/orange_8361)
 ```
 Virtual Public Network [500pts]
 Vulnerable Point of Your Network :)
