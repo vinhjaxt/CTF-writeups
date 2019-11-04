@@ -155,7 +155,7 @@ filename: `<?php $v=chr(47).'flag1'; echo file_get_contents($v); ?>`,
 ![](https://raw.githubusercontent.com/vinhjaxt/CTF-writeups/master/SVATTT-2019-Quals/Screenshot%20at%202019-11-03%2015-14-44.png)
 
 OK, vậy là xong. Team mình khá vui và gỡ bỏ một số áp lực.
-Cảm ơn các bạn/anh/chị/em đã theo dõi writeup, cảm ơn tác giả của challenge.
+Cảm ơn các bạn/anh/chị/em đã theo dõi writeup, cảm ơn tác giả của challenge, c.
 Nếu có góp ý, liên hệ, trao đổi, mọi người vui lòng liên lạc qua:
 - Fb: http://fb.com/i.am.Ioser
 - Discord: @vinhjaxt#2733
