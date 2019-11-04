@@ -56,7 +56,7 @@ Với chiến lược: thôi thì đằng nào chả phải làm cái `curl 2`, 
 
 Ban đầu, check với poc của CVE-2019-11043 (https://github.com/neex/phuip-fpizdam), không chạy.
 
-Không sao! Chắc tác giả muốn các đội tìm hiểu sâu hơn vào cách poc hoạt động, team mình đọc blog của Orange (http://blog.orange.tw/) và improve poc: Không thành công
+Không sao! Chắc tác giả muốn các đội tìm hiểu sâu hơn vào cách poc hoạt động, team mình đọc blog của Orange (http://blog.orange.tw/) và improve poc: Không thành công (Sau khi kết thúc cuộc thi, mình đọc lại file cấu hình [quên tên rồi] trong thư mục /etc/nginx/snippets/ thì mới thấy nó check exists rồi, khá là không chú ý gây mất thời gian)
 
 OK, không sao, còn nữa, port 9000, nếu mà vượt được thì chắc là hay ho =)).
 
