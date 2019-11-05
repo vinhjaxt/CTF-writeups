@@ -164,3 +164,7 @@ Nếu có góp ý, liên hệ, trao đổi, mọi người vui lòng liên lạc
 # Tham khảo thêm
 - https://www.zybuluo.com/shaobaobaoer/note/1214441
 - http://blog.orange.tw/2019/10/an-analysis-and-thought-about-recently.html
+
+# P/S
+Sau khi mình chia sẻ bài writeup này, mình mới được khai sáng rằng cách làm của team mình khá là hardcore. Bạn đọc quan tâm cách làm đơn giản hơn vui lòng tham khảo: https://github.com/tarunkant/Gopherus
+
